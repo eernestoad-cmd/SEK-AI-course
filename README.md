@@ -17,3 +17,7 @@ In this repo i'll upload the urls to the colab notebooks
 4) Linear Regresion and AI concepts
 
    https://colab.research.google.com/drive/18IhUivKqrN-7G3rkd5TMD05kYFzRB6CS?usp=sharing
+
+5) Clustering
+
+   https://colab.research.google.com/drive/1GMPDKN3LGJ1BvdxY2BP9gL9sqX1XTjjM?usp=sharing
