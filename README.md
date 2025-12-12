@@ -21,3 +21,7 @@ In this repo i'll upload the urls to the colab notebooks
 5) Clustering
 
    https://colab.research.google.com/drive/1GMPDKN3LGJ1BvdxY2BP9gL9sqX1XTjjM?usp=sharing
+
+6) Reinforcement learning
+
+   https://colab.research.google.com/drive/1ZNKDiW0vVgtAx18ILQOXcuyegtCW9ELC?usp=sharing
