@@ -25,3 +25,7 @@ In this repo i'll upload the urls to the colab notebooks
 6) Reinforcement learning
 
    https://colab.research.google.com/drive/1ZNKDiW0vVgtAx18ILQOXcuyegtCW9ELC?usp=sharing
+
+7) Classification
+
+   https://colab.research.google.com/drive/1Bwx-bxs0tWjl5Xygkd8EmFcKnUaYUe7c?usp=sharing
