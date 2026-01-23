@@ -8,7 +8,7 @@ In this repo i'll upload the urls to the colab notebooks
 
 2) Probability and apriori
 
-   https://colab.research.google.com/drive/1XFbLWNoS9gGfoxIgG_Yi84XyhaXdTCWz#scrollTo=VQIsmgblhdFs
+   z
 
 3) Datasets
 
