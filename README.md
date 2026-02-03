@@ -29,3 +29,7 @@ In this repo i'll upload the urls to the colab notebooks
 7) Classification
 
    https://colab.research.google.com/drive/1Bwx-bxs0tWjl5Xygkd8EmFcKnUaYUe7c?usp=sharing
+
+8) AI Project
+   
+   https://docs.google.com/presentation/d/1ySHi4A9dy6gKr-TTXXd6z3KqYGBlt-XEg6KFr8JiV7k/edit?usp=sharing
