@@ -33,3 +33,7 @@ In this repo i'll upload the urls to the colab notebooks
 8) AI Project
    
    https://docs.google.com/presentation/d/1ySHi4A9dy6gKr-TTXXd6z3KqYGBlt-XEg6KFr8JiV7k/edit?usp=sharing
+
+9) ANN
+
+    https://colab.research.google.com/drive/17vAADYBQ7yjDBih0iQgpMqa_Aci7GKYj?usp=sharing
