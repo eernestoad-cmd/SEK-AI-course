@@ -37,3 +37,7 @@ In this repo i'll upload the urls to the colab notebooks
 9) ANN
 
     https://colab.research.google.com/drive/17vAADYBQ7yjDBih0iQgpMqa_Aci7GKYj?usp=sharing
+
+10) CNN
+
+    https://colab.research.google.com/drive/1AtuwCw7s4rE-GjX1nuJi7XVgLfpdD4UY?usp=sharing
