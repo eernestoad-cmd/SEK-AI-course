@@ -41,3 +41,11 @@ In this repo i'll upload the urls to the colab notebooks
 10) CNN
 
     https://colab.research.google.com/drive/1AtuwCw7s4rE-GjX1nuJi7XVgLfpdD4UY?usp=sharing
+    
+12) RNN
+
+    https://colab.research.google.com/drive/1-wD2RYX0wqciDmrV2MBJQTIM3i6XzB_T?usp=sharing
+
+13) IR
+
+    https://colab.research.google.com/drive/1bLb5b6JzgA_YiJfJdYfQNHOFETNk6hjV?usp=sharing
