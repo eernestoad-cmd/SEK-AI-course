@@ -49,3 +49,7 @@ In this repo i'll upload the urls to the colab notebooks
 13) IR
 
     https://colab.research.google.com/drive/1bLb5b6JzgA_YiJfJdYfQNHOFETNk6hjV?usp=sharing
+
+14) Prompt engineering
+
+    https://docs.google.com/presentation/d/1AOKI0G6HRPCdndXPuBWPVWGy3uGP0JKM323-nCcPYZ8/edit?usp=sharing
